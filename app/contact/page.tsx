@@ -13,9 +13,9 @@ const socials = [
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:alejandra.altamirano19@gmail.com",
+		href: "mailto:webmaster@aleehpandita.dev",
 		label: "Email",
-		handle: "alejandra.altamirano19@gmail.com",
+		handle: "webmaster@aleehpandita.dev",
 	},
 	{
 		icon: <Github size={20} />,
